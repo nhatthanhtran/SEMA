@@ -21,6 +21,7 @@ from .twins import PCPVT, SVT
 from .unet import UNet
 from .vit import VisionTransformer
 from .mlla import MLLA
+from .sema import SEMA
 
 
 __all__ = [
@@ -29,5 +30,5 @@ __all__ = [
     'VisionTransformer', 'SwinTransformer', 'MixVisionTransformer',
     'BiSeNetV1', 'BiSeNetV2', 'ICNet', 'TIMMBackbone', 'ERFNet', 'PCPVT',
     'SVT', 'STDCNet', 'STDCContextPathNet', 'BEiT', 'MAE', 
-    'MLLA'
+    'MLLA', 'SEMA'
 ]

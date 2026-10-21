@@ -71,7 +71,16 @@ This code is developed on the top of [Swin Transformer](https://github.com/micro
 and [Mamba Inspire Linear Attention](https://github.com/LeapLabTHU/MLLA) 
 
 ## Citation
+If you find this repo helpful, please consider citing us.
 
+@inproceedings{
+tran2026sema,
+title={{SEMA}: a Scalable and Efficient Mamba like Attention via Token Localization and Averaging},
+author={Nhat Thanh Tran and Fanghui Xue and shuai zhang and Jiancheng Lyu and Yunling Zheng and Yingyong Qi and Jack Xin},
+booktitle={Forty-third International Conference on Machine Learning},
+year={2026},
+url={https://openreview.net/forum?id=H3vDDSHWos}
+}
 
 ## Contact
 

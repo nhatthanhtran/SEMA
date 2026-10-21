@@ -72,7 +72,7 @@ and [Mamba Inspire Linear Attention](https://github.com/LeapLabTHU/MLLA)
 
 ## Citation
 If you find this repo helpful, please consider citing us.
-
+```bibtex
 @inproceedings{
 tran2026sema,
 title={{SEMA}: a Scalable and Efficient Mamba like Attention via Token Localization and Averaging},
@@ -81,6 +81,6 @@ booktitle={Forty-third International Conference on Machine Learning},
 year={2026},
 url={https://openreview.net/forum?id=H3vDDSHWos}
 }
-
+```
 ## Contact
 

@@ -76,7 +76,7 @@ If you find this repo helpful, please consider citing us.
 @inproceedings{
 tran2026sema,
 title={{SEMA}: a Scalable and Efficient Mamba like Attention via Token Localization and Averaging},
-author={Nhat Thanh Tran and Fanghui Xue and shuai zhang and Jiancheng Lyu and Yunling Zheng and Yingyong Qi and Jack Xin},
+author={Nhat Thanh Tran and Fanghui Xue and Shuai Zhang and Jiancheng Lyu and Yunling Zheng and Yingyong Qi and Jack Xin},
 booktitle={Forty-third International Conference on Machine Learning},
 year={2026},
 url={https://openreview.net/forum?id=H3vDDSHWos}

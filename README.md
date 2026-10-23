@@ -65,6 +65,11 @@ python -m torch.distributed.launch --nproc_per_node=8 main.py --cfg <path-to-con
 python -m torch.distributed.launch --nproc_per_node=8 main.py --cfg <path-to-config-file> --data-path <imagenet-path> --output <output-path> --amp
 ```
 
+## Checkpoints
+Some of the checkpoints can be found here:
+
+[SEMA-T 224x224 ImageNet1K](https://huggingface.co/meml/SEMA/blob/main/sema_t_in1k_res224.pth)
+
 ## Acknowledgements
 
 This code is developed on the top of [Swin Transformer](https://github.com/microsoft/Swin-Transformer), [FLatten Transformer](https://github.com/LeapLabTHU/FLatten-Transformer) and [Agent Attention](https://github.com/LeapLabTHU/Agent-Attention), 

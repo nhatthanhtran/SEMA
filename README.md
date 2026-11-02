@@ -70,11 +70,11 @@ Some of the checkpoints can be found here:
 
 [SEMA-T 224x224 ImageNet1K](https://huggingface.co/meml/SEMA/blob/main/sema_t_in1k_res224.pth)
 
-[SEMA-T ADE20K](https://huggingface.co/meml/SEMA/blob/main/sema_t_ade20k.pth)
+[SEMA-T ADE20K ws14](https://huggingface.co/meml/SEMA/blob/main/sema_t_ade20k.pth)
 
-[SEMA-T COCO R-CNN 1x](https://huggingface.co/meml/SEMA/blob/main/sema_t_coco_r-cnn-1x.pth)
+[SEMA-T COCO R-CNN 1x ws12](https://huggingface.co/meml/SEMA/blob/main/sema_t_coco_r-cnn-1x.pth)
 
-[SEMA-T COCO R-CNN 3x](https://huggingface.co/meml/SEMA/blob/main/sema_t_coco_r-cnn-3x.pth)
+[SEMA-T COCO R-CNN 3x ws12](https://huggingface.co/meml/SEMA/blob/main/sema_t_coco_r-cnn-3x.pth)
 
 ## Acknowledgements
 
